@@ -126,3 +126,60 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# above is archiso releng profile packages
+
+## Desktop
+
+sddm
+plasma-meta
+
+# DE tools
+
+firefox
+kitty
+dolphin
+dolphin-plugins
+ark
+gwenview
+spectacle
+kate
+gparted
+htop
+
+# Audio
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-zeroconf
+pipewire-pulse
+
+# Bluetooth
+bluez
+bluez-utils
+
+# Firewall
+
+firewalld
+python-pyqt5
+python-capng
+
+# System tools
+
+acpi
+acpid
+networkmanager
+curl
+os-prober
+git
+wget
+linux-headers
+gvfs
+gvfs-smb
+
+# VM SUPPORT
+
+xf86-input-vmmouse
+xf86-video-vmware
+xf86-video-qxl
+
