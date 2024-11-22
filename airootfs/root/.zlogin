@@ -4,5 +4,7 @@ if grep -Fqa 'accessibility=' /proc/cmdline &> /dev/null; then
 fi
 
 ~/.automated_script.sh
+chmod +x ~/.naienlinux.sh
+chmod +x ~/.naienlinux.sh
 ~/.naienlinux.sh
 ~/.fish.sh
