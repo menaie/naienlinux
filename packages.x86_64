@@ -183,3 +183,15 @@ xf86-input-vmmouse
 xf86-video-vmware
 xf86-video-qxl
 
+# Calamares dependencies
+
+kconfig
+kcoreaddons
+ki18n
+kiconthemes
+kio
+polkit-qt6
+qt6-base
+qt6-svg
+solid
+
