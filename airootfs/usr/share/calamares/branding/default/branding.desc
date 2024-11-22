@@ -123,10 +123,10 @@ navigation: widget
 strings:
     productName:         "Naien Linux"
     shortProductName:    Naien
-    version:             24.11 LTS
-    shortVersion:        24.11
-    versionedName:       Naien Linux 24.11 LTS "Grand Oliver"
-    shortVersionedName:  Naien 24.11
+    version:             24.11.1
+    shortVersion:        24.11.1
+    versionedName:       Naien Linux 24.11.1 "Big Oliver"
+    shortVersionedName:  Naien 24.11.1
     bootloaderEntryName: Naien
     productUrl:          https://calamares.io/
     supportUrl:          https://github.com/calamares/calamares/wiki
@@ -162,7 +162,7 @@ strings:
 #
 # These filenames can also use substitutions from os-release (see above).
 images:
-    # productBanner:       "banner.png"
+    productBanner:       "banner.png"
     productIcon:         "squid.png"
     productLogo:         "squid.png"
     # productWallpaper:    "wallpaper.png"
@@ -180,10 +180,10 @@ images:
 # branding component also ships a stylesheet.qss. Then they are
 # the corresponding CSS attributes of #sidebarApp.
 style:
-   SidebarBackground:        "#0C0C0C"
+   SidebarBackground:        "#110c1a"
    SidebarText:              "#FFFFFF"
    SidebarTextCurrent:       "#FFFFFF"
-   SidebarBackgroundCurrent: "#F749F7"
+   SidebarBackgroundCurrent: "#6835a6"
 
 ### SLIDESHOW
 #

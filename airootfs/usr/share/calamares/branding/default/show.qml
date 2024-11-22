@@ -40,11 +40,11 @@ Presentation
         Text {
             anchors.horizontalCenter: background.horizontalCenter
             anchors.top: background.bottom
-            text: "This is a customizable QML slideshow.<br/>"+
-                  "Distributions should provide their own slideshow and list it in <br/>"+
-                  "their custom branding.desc file.<br/>"+
-                  "To create a Calamares presentation in QML, import calamares.slideshow,<br/>"+
-                  "define a Presentation element with as many Slide elements as needed."
+            text: "Thanks for trusting on Naien Linux!<br/>"+
+                  "It's is just a simple distro, but i did everything<br/>"+
+                  "with only Archlinux basic knowledge and learned a lot<br/>"+
+                  "so this is very special and important to me!"+
+                  " - Menai"
             wrapMode: Text.WordWrap
             width: presentation.width
             horizontalAlignment: Text.Center
@@ -52,11 +52,11 @@ Presentation
     }
 
     Slide {
-        centeredText: qsTr("This is a second Slide element.")
+        centeredText: qsTr("It's nice to see you here.")
     }
 
     Slide {
-        centeredText: qsTr("This is a third Slide element.")
+        centeredText: qsTr("This distro is straight from Brasil!")
     }
 
     // When this slideshow is loaded as a V1 slideshow, only
