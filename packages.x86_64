@@ -2,7 +2,6 @@ alsa-utils
 amd-ucode
 arch-install-scripts
 archinstall
-b43-fwcutter
 base
 bcachefs-tools
 bind
@@ -10,11 +9,8 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
-darkhttpd
-ddrescue
 dhclient
 dhcpcd
 diffutils
@@ -30,8 +26,6 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
-foot-terminfo
-fsarchiver
 gpart
 gpm
 gptfdisk
@@ -51,13 +45,11 @@ lftp
 libfido2
 libusb-compat
 linux
-linux-atm
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
 lsscsi
 lvm2
-lynx
 man-db
 man-pages
 mc
@@ -73,7 +65,6 @@ nano
 nbd
 ndisc6
 nfs-utils
-nilfs-utils
 nmap
 ntfs-3g
 nvme-cli
@@ -85,7 +76,6 @@ openssh
 openvpn
 partclone
 parted
-partimage
 pcsclite
 ppp
 pptpclient
@@ -95,8 +85,6 @@ refind
 reflector
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
-screen
 sdparm
 sequoia-sq
 sg3_utils
@@ -116,7 +104,6 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
