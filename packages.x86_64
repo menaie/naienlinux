@@ -120,6 +120,7 @@ zsh
 
 sddm
 plasma-meta
+plasma-framework
 
 # DE tools
 
@@ -180,5 +181,20 @@ kio
 polkit-qt6
 qt6-base
 qt6-svg
+qt6-tools
 solid
-
+boost
+extra-cmake-modules
+ninja
+python-jsonschema
+python-pyaml
+python-unidecode
+polkit-qt5
+qt5-location
+qt5-svg
+qt5-tools
+qt5-translations
+qt5-webengine
+qt5-xmlpatterns
+qt5ct
+calamares
