@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=30,87,116
-BackgroundNormal=58,20,56
+BackgroundNormal=48,20,56
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -34,7 +34,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Complementary]
 BackgroundAlternate=30,87,116
-BackgroundNormal=77,27,70
+BackgroundNormal=72,27,70
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -48,7 +48,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Header]
 BackgroundAlternate=34,25,54
-BackgroundNormal=77,27,70
+BackgroundNormal=22,11,29
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -76,7 +76,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Selection]
 BackgroundAlternate=30,87,116
-BackgroundNormal=166,62,166
+BackgroundNormal=161,62,166
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=252,252,252
@@ -90,7 +90,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
 BackgroundAlternate=30,21,47
-BackgroundNormal=77,27,70
+BackgroundNormal=67,27,70
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=44,8,50
-BackgroundNormal=25,8,24
+BackgroundAlternate=39,8,50
+BackgroundNormal=20,8,24
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -118,7 +118,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Window]
 BackgroundAlternate=35,25,56
-BackgroundNormal=36,13,36
+BackgroundNormal=31,13,36
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -132,16 +132,16 @@ ForegroundVisited=155,89,182
 
 [General]
 ColorScheme=BreezeDark
-Name=naienlinux
+Name=naienprl2
 shadeSortColumn=true
 
 [KDE]
 contrast=10
 
 [WM]
-activeBackground=14,10,22
+activeBackground=9,10,22
 activeBlend=252,252,252
 activeForeground=252,252,252
-inactiveBackground=34,12,31
+inactiveBackground=29,12,31
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177
