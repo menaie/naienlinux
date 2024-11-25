@@ -3,6 +3,7 @@ amd-ucode
 arch-install-scripts
 archinstall
 base
+bash
 bcachefs-tools
 bind
 bolt
