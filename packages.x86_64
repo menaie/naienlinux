@@ -197,4 +197,5 @@ qt5-translations
 qt5-webengine
 qt5-xmlpatterns
 qt5ct
+libyaml
 calamares
