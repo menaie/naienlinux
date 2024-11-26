@@ -2,6 +2,7 @@
 
 rm /usr/share/applications/calamares.desktop
 mv /usr/share/applications/calamares1.desktop /usr/share/applications/calamares.desktop
+chmod +x /home/naien/Desktop/Install_System.desktop
 
 WALLPAPER_PATH="/usr/share/wallpapers/naienlinux-wallpaper.png"
 PLASMA_CONFIG_DIR="/home/naien/.config"
