@@ -125,27 +125,27 @@ plasma-framework5
 
 # DE tools
 
-#firefox
+firefox
 kitty
 dolphin
 dolphin-plugins
-#ark
-#gwenview
-#spectacle
-#kate
+ark
+gwenview
+spectacle
+kate
 gparted
 #htop
 
 # Audio
-#pipewire
-#pipewire-alsa
-#pipewire-jack
-#pipewire-zeroconf
-#pipewire-pulse
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-zeroconf
+pipewire-pulse
 
 # Bluetooth
-#bluez
-#bluez-utils
+bluez
+bluez-utils
 
 # Firewall
 
