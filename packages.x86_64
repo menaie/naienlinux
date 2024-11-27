@@ -194,4 +194,12 @@ qt5-xmlpatterns
 qt5ct
 yaml-cpp
 libyaml
+gtk-update-icon-cache
+icu
+hwinfo
+kpmcore
+libpwquality
+perl
+mkinitcpio-openswap
+ckbcomp
 calamares
