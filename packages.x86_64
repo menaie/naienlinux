@@ -1,7 +1,5 @@
 alsa-utils
 amd-ucode
-arch-install-scripts
-archinstall
 base
 bash
 bcachefs-tools
@@ -45,7 +43,8 @@ less
 lftp
 libfido2
 libusb-compat
-linux
+linux-zen
+linux-zen-headers
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
@@ -98,7 +97,6 @@ systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
-tmux
 tpm2-tools
 tpm2-tss
 udftools
@@ -119,39 +117,41 @@ zsh
 
 ## Desktop
 
+hyprcursor
+hyprland
+hyprpaper
+hyprutils
 sddm
-plasma-meta
-plasma-framework5
+xdg-desktop-portal-hyprland
 
-# DE tools
+# Desktop tools
 
-firefox
+waybar
+wofi
 kitty
-dolphin
-dolphin-plugins
-ark
-gwenview
-spectacle
-kate
+polkit-gnome
+
+# Tools
+
+code
+firefox
 gparted
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
 #htop
 
 # Audio
 pipewire
 pipewire-alsa
 pipewire-jack
-pipewire-zeroconf
 pipewire-pulse
+pipewire-zeroconf
 
 # Bluetooth
 bluez
 bluez-utils
-
-# Firewall
-
-firewalld
-python-pyqt5
-python-capng
 
 # System tools
 
@@ -162,7 +162,6 @@ curl
 os-prober
 git
 wget
-linux-headers
 gvfs
 gvfs-smb
 
@@ -181,6 +180,7 @@ solid
 boost
 extra-cmake-modules
 ninja
+plasma-framework5
 python-jsonschema
 python-pyaml
 python-unidecode
